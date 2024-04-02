@@ -1,0 +1,8 @@
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150167.31","drawdown":"-0.00","chartStartDate":"2024.03.19 01:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150163.03","drawdown":"-0.00","chartStartDate":"2024.03.19 01:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150167.31","drawdown":"-0.00","chartStartDate":"2024.03.19 01:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150167.31","drawdown":"-0.00","chartStartDate":"2024.03.19 00:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150163.03","drawdown":"-0.00","chartStartDate":"2024.03.19 00:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150163.03","drawdown":"-0.00","chartStartDate":"2024.03.19 01:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150171.59","drawdown":"-0.00","chartStartDate":"2024.03.19 01:00\u0000"}
+{"accountNumber":"101109881","accountBalance":"150000.00","accountEquity":"150167.31","drawdown":"-0.00","chartStartDate":"2024.03.19 00:00\u0000"}
